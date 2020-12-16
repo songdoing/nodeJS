@@ -1,5 +1,5 @@
+//import { odd, even } from './var'; 가장 위에 와야함.
 const { odd, even } = require("./var");
-//import { odd, even } from './var';
 
 function checkOddOrEven(number) {
   if (number % 2) {
