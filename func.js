@@ -11,3 +11,5 @@ function checkOddOrEven(number) {
 //export default checkOddOrEven;
 //import,export default와 require, module.exports랑 기능이 아주 똑같이는 않다
 module.exports = checkOddOrEven;
+
+// module.exports !== exports === {}
