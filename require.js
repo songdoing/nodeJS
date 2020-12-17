@@ -1,3 +1,4 @@
+//가장 위에 오지 않아도 된다
 require("./var");
 
 //console.log(require);
