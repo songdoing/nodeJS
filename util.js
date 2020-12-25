@@ -13,6 +13,6 @@ randomBytesPromise(64)
   .then((buf) => {
     console.log(buf.toString("base64"));
   })
-  .catch((eroor) => {
+  .catch((error) => {
     console.log(error);
   });
